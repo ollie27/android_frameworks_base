@@ -39,7 +39,7 @@ public class StorageNotification extends SystemUI {
     private static final String TAG = "StorageNotification";
     private static final boolean DEBUG = false;
 
-    private static final boolean POP_UMS_ACTIVITY_ON_CONNECT = true;
+    private static final boolean POP_UMS_ACTIVITY_ON_CONNECT = false;
     public static final String KEY_UNMOUNT_USB = "key_unmount_usb";
     public static final String HIGHLIGHT_PREF_KEY = "pref_key";
 
